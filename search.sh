@@ -293,4 +293,3 @@ fi
 fvm
 fmenu
 
-yo
